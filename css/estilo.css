@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+.cajaPrincipal{
+    background: linear-gradient(100deg, bisque, bisque);
+    padding: 30px;  
+}
+.caja1{
+    background: linear-gradient(100deg, red, black);
+    padding: 30px;
+    margin: 30px;
+}
+.caja2{
+    background: linear-gradient(100deg, black, red);
+    padding: 30px;
+    margin: 30px;
+}
+.caja3{
+    background: linear-gradient(100deg, red, black);
+    padding: 30px;
+}
+.caja4{
+    background: linear-gradient(100deg, black, red);
+    padding: 30px;
+}
+.caja5{
+    background: linear-gradient(100deg, red, black);
+    padding: 30px;
+}
+.caja6{
+    background: linear-gradient(100deg, black, red);
+    padding: 30px;
+}
+.caja7{
+    background: linear-gradient(100deg, white, white);
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
